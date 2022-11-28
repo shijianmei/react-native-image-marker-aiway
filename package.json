@@ -1,0 +1,34 @@
+{
+  "name": "react-native-image-marker-aiway",
+  "version": "0.5.1",
+  "description": "mark image on both Android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shijianmei/react-native-image-marker-aiway.git"
+  },
+  "keywords": [
+    "react-native",
+    "image",
+    "marker",
+    "text",
+    "watermark"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "author": "jimmydaddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JimmyDaddy/react-native-image-marker/issues"
+  },
+  "homepage": "https://github.com/JimmyDaddy/react-native-image-marker#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^7.2.1",
+    "@commitlint/config-conventional": "^7.1.2",
+    "husky": "^1.2.0"
+  }
+}
